@@ -1,0 +1,11 @@
+@startuml
+
+Bob -> Alice : Hi there
+Bob <- Alice : Hi back
+
+newpage
+
+Bob -> Alice : Hi there again
+Bob <- Alice : Hi back again
+
+@enduml
