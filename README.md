@@ -10,7 +10,7 @@ view-git-file macro on any Confluence page.
 
 You can install Git for Confluence by using the Universal Plugin Manager inside
 Confluence, or by visiting the
-[Git for Confluence marketplace entry](https://avisi-apps.gitbook.io/git-for-confluence/.md).
+[Git for Confluence marketplace entry](https://marketplace.atlassian.com/apps/1211675/git-for-confluence?hosting=server&tab=overview).
 
 ## Documentation
 
@@ -43,12 +43,12 @@ in the formats directory:
         └── simple-sequence-diagram.puml
 ```
 These files can be directly added to the ``view-git-file`` Macro in Confluence
-and rendered on a page.
+and will be rendered on a page.
 
 ## Image
 
 Several images in several formats are available in the formats/markdown folder.
-An images will simply be show as an image when included on a Confluence page by
+An image will simply be show as an image when included on a Confluence page by
 using the ``view-git-file`` macro. Currently we support the following extensions:
 * .png
 * .jpg
