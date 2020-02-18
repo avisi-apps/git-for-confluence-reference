@@ -28,11 +28,14 @@ in the formats directory:
 .
 ├── README.md
 └── formats
+    ├── code
+    │   └── index.html
     ├── image
     │   ├── graph.png
     │   ├── logo.svg
     │   ├── success.jpg
-    │   └── tv.webp
+    │   ├── tv.webp
+    │   └── world.ico
     ├── markdown
     │   ├── image-reference.md
     │   └── images
