@@ -10,7 +10,7 @@ view-git-file macro on any Confluence page.
 
 You can install Git for Confluence by using the Universal Plugin Manager inside
 Confluence, or by visiting the
-[Git for Confluence marketplace entry](https://marketplace.atlassian.com/apps/1211675/git-for-confluence?hosting=server&tab=overview).
+[Git for Confluence marketplace entry](https://marketplace.atlassian.com/apps/1211675/git-for-confluence).
 
 ## Documentation
 
@@ -69,6 +69,3 @@ There are a few basic and a few more advanced PlantUML examples available in
 the formats/plantuml folder. Try out a basic sequence diagram, or the more
 advanced examples, that result in multiple images on your Confluence page when
 rendered with the ``view-git-file`` macro.
-
-[1]: https://marketplace.atlassian.com/apps/1211675/git-for-confluence
-[2]: https://avisi-apps.gitbook.io/git-for-confluence/
