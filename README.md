@@ -69,3 +69,6 @@ There are a few basic and a few more advanced PlantUML examples available in
 the formats/plantuml folder. Try out a basic sequence diagram, or the more
 advanced examples, that result in multiple images on your Confluence page when
 rendered with the ``view-git-file`` macro.
+
+### Optimistic PUML updates
+isEnabled":true,"numberFormatField":"decimal
