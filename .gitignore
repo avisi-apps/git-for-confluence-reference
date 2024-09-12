@@ -1,0 +1,58 @@
+# This .gitignore is based on https://github.com/github/gitignore
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# JRebel
+rebel.xml
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+
+# VIM
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# OS X
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+[Tt]humbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+/node_modules
+package-lock.json
