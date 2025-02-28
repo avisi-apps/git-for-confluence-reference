@@ -1,4 +1,8 @@
 ''' Invalid Encoding '''
 @startuml
-Alice -> Bob: "\xFF\xFF\xFF\xFF\xFF"
+Alice -> Bob: "<U+221E>"
+Alice -> Bob: "<U+a999E>"
+Alice -> Bob: "<&code>"
+Alice -> Bob: "<&invalid>"
+Alice -> Bob: "<U+invalidseqeuasdfasdfasdf221E>"
 @enduml
