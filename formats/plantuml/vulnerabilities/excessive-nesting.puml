@@ -1,0 +1,15 @@
+''' Excessive Nesting (Parsing Complexity) '''
+@startuml
+class A {
+  +foo()
+}
+class B {
+  +bar()
+}
+class C {
+  +baz()
+}
+A <|-- B
+B <|-- C
+C <|-- A
+@enduml

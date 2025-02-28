@@ -1,0 +1,7 @@
+''' Infinite Loop (Deadlock) '''
+@startuml
+Alice -> Bob: Loop Start
+loop 10000 times
+    Bob -> Alice: Loop Iteration
+end
+@enduml

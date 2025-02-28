@@ -1,0 +1,4 @@
+''' Invalid Encoding '''
+@startuml
+Alice -> Bob: "\xFF\xFF\xFF\xFF\xFF"
+@enduml

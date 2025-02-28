@@ -1,0 +1,22 @@
+''' Large Number of Participants (Resource Exhaustion) '''
+@startuml
+participant Alice
+participant Bob
+participant Charlie
+participant David
+participant Eve
+participant Frank
+participant George
+participant Henry
+participant Ian
+participant Jack
+Alice -> Bob: Message 1
+Bob -> Charlie: Message 2
+Charlie -> David: Message 3
+David -> Eve: Message 4
+Eve -> Frank: Message 5
+Frank -> George: Message 6
+George -> Henry: Message 7
+Henry -> Ian: Message 8
+Ian -> Jack: Message 9
+@enduml

@@ -1,0 +1,6 @@
+''' Recursive Reference Test (Stack Overflow) '''
+@startuml
+class A {
+  +A() : A
+}
+@enduml

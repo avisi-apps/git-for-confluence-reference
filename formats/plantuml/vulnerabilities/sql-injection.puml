@@ -1,0 +1,4 @@
+''' SQL Injection Style Input '''
+@startuml
+Alice -> Bob: "Robert'); DROP TABLE Students;--"
+@enduml

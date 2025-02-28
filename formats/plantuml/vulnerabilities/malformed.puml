@@ -1,0 +1,4 @@
+''' Unexpected Syntax (Malformed Input) '''
+@startuml
+Alice -> Bob: Hello [MALFORMED
+@enduml
